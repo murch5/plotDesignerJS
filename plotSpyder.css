@@ -24,3 +24,37 @@ z-index: 1
     text-align: center;
     line-height: 1.6em;
   }
+
+#typeSliderHandle {
+      width: 3em;
+      height: 1.6em;
+      top: 50%;
+      margin-top: -.8em;
+      text-align: center;
+      line-height: 1.6em;
+    }
+
+#dataSliderHandle {
+      width: 3em;
+      height: 1.6em;
+      top: 50%;
+      margin-top: -.8em;
+      text-align: center;
+      line-height: 1.6em;
+    }
+
+#CreateLattice
+{
+  margin-left: 40px;
+}
+#ProcessGrid
+{
+  margin-left: 10px;
+}
+
+
+.fieldLbl
+{
+  padding-right: 10px;
+  padding-left: 10px;
+}
